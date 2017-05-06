@@ -1,5 +1,7 @@
 # hyperterm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/hyperterm.svg)](https://greenkeeper.io/)
+
 ![](https://cldup.com/tD67NzPryA.gif)
 
 For downloads, documentation and the developer API head to: https://hyperterm.org
